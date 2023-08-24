@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **KamilBranicki/KamilBranicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hello there, I am Kamil Branicki 👋</h1>
+- 🌱 I’m currently learning <strong>Python for data science, machine learning, scripting and automation</strong> <a href="https://github.com/KamilBranicki/Python_roadmap" target="_blank">Python Roadmap</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/kamil-branicki-762957234/" target="_blank">Linkdin - Kamil Branicki</a><a href="https://www.linkedin.com/in/kamil-branicki-762957234/" target="_blank"><img src="https://www.citypng.com/public/uploads/preview/hd-linkedin-square-black-icon-transparent-background-11640440466zdofrsi3gy.png?v=2023080919" height="30" width="30"</a> 
