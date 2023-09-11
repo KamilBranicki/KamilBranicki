@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• GUI app,</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• web development.</strong></br>
 &nbsp;&nbsp;&nbsp;Below you can find link to projects repository:</strong></br>
-&nbsp;&nbsp;&nbsp;<a href="https://github.com/KamilBranicki/Python_roadmap" target="_blank"><strong><font size="16">Python Roadmap</font></strong></a></h3></br></br>
+&nbsp;&nbsp;&nbsp;<a href="https://github.com/KamilBranicki/Python_roadmap" target="_blank"><strong><font size="16">Python Roadmap</font></strong></a></br></br>
 📫 How to reach me: <a href="https://www.linkedin.com/in/kamil-branicki-762957234/" target="_blank">Linkdin - Kamil Branicki</a>
