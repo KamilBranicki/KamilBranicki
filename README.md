@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 🌱 I’m currently learning <strong>Python</strong> in use for:</br><strong>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• data science,</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• machine learning,</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• scripting, automation,</br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• GUI app,</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• scripting and automation,</br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• GUI apps,</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• web development.</strong></br>
 &nbsp;&nbsp;&nbsp;Below you can find link to projects repository:</strong></br>
 &nbsp;&nbsp;&nbsp;<a href="https://github.com/KamilBranicki/Python_roadmap" target="_blank"><strong><font size="16">Python Roadmap</font></strong></a></h3></br></br>
