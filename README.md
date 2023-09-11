@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h4 align="center">Hello there, I am Kamil Branicki 👋</h4>
-🌱 I’m currently learning <strong>Python</strong> in use for:<strong>
-   • data science,</br>
-   • machine learning,</br>
-   • scripting, automation,</br> 
-   • GUI app,</br>
-   • web development.</strong></br>
-   Below you can find link to projects repository:</strong></br>&nbsp;&nbsp;&nbsp;<a href="https://github.com/KamilBranicki/Python_roadmap" target="_blank"><strong>Python Roadmap</strong></a></br></br>
+<h3 align="center">Hello there, I am Kamil Branicki 👋</h3>
+🌱 I’m currently learning <strong>Python</strong> in use for:</br><strong>
+&nbsp;&nbsp;&nbsp;• data science,</br>
+&nbsp;&nbsp;&nbsp;• machine learning,</br>
+&nbsp;&nbsp;&nbsp;• scripting, automation,</br> 
+&nbsp;&nbsp;&nbsp;• GUI app,</br>
+&nbsp;&nbsp;&nbsp;• web development.</strong></br>
+   Below you can find link to projects repository:</strong></br>&nbsp;&nbsp;&nbsp;
+   <h3><a href="https://github.com/KamilBranicki/Python_roadmap" target="_blank"><strong>Python Roadmap</strong></a></h3></br></br>
 📫 How to reach me: <a href="https://www.linkedin.com/in/kamil-branicki-762957234/" target="_blank">Linkdin - Kamil Branicki</a>
